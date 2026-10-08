@@ -35,7 +35,7 @@ Materi ini membahas kemampuan suatu objek untuk memiliki banyak bentuk melalui t
 Materi ini membahas hubungan antar objek, baik hubungan asosiasi maupun hubungan komposisi/agregasi.
 
 ### Output
-[Output Pertemuan 05](IMAGES/5.png)
+![Output Pertemuan 05](IMAGES/5.png)
 
 ## Pertemuan 06: 
 Materi ini membahas implementasi abstraksi menggunakan `abstract class` dan kata kunci `implements` untuk `interface`.
