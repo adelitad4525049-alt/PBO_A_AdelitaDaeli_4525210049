@@ -22,7 +22,7 @@ Materi ini membahas penggunaan metode `__construct()` untuk inisialisasi propert
 Materi ini membahas mekanisme pewarisan sifat dan properti dari *parent class* ke *child class* menggunakan kata kunci `extends`.
 
 ### Output
-[Output Pertemuan 03](IMAGES/3.png)
+![Output Pertemuan 03](IMAGES/3.png)
 
 ## Pertemuan 04: 
 Materi ini membahas kemampuan suatu objek untuk memiliki banyak bentuk melalui teknik *method overriding*.
